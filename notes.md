@@ -20,3 +20,8 @@
   165      git push origin main
   167  vim notes.md
   168  history
+  173  git add .
+  174  git commit -m "create notes.md file"
+  175  git push origin main
+  176  vim notes.md
+  177  history
